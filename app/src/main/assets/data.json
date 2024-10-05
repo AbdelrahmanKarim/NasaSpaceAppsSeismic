@@ -1,0 +1,206 @@
+{
+  "fileName": "G:\\Nasa\\space_apps_2024_seismic_detection\\space_apps_2024_seismic_detection\\data\\lunar\\test\\data\\S12_GradeB\\xa.s12.00.mhz.1970-01-09HR00_evid00007.csv",
+  "dataPoints": [
+    {
+      "timeInSeconds": 0.4528301886792453,
+      "velocity": -1.4233730164970218e-14
+    },
+    {
+      "timeInSeconds": 0.6037735849056604,
+      "velocity": -1.2436665439901262e-14
+    },
+    {
+      "timeInSeconds": 0.7547169811320755,
+      "velocity": -1.0285938665102368e-14
+    },
+    {
+      "timeInSeconds": 0.9056603773584906,
+      "velocity": -8.420659520249438e-15
+    },
+    {
+      "timeInSeconds": 1.0566037735849056,
+      "velocity": -6.920602652424484e-15
+    },
+    {
+      "timeInSeconds": 1.2075471698113207,
+      "velocity": -5.4531576346924895e-15
+    },
+    {
+      "timeInSeconds": 1.3584905660377358,
+      "velocity": -3.684350703952647e-15
+    },
+    {
+      "timeInSeconds": 1.509433962264151,
+      "velocity": -1.6029927778267733e-15
+    },
+    {
+      "timeInSeconds": 1.6603773584905661,
+      "velocity": 4.711143118115811e-16
+    },
+    {
+      "timeInSeconds": 1.8113207547169812,
+      "velocity": 2.147769968539918e-15
+    },
+    {
+      "timeInSeconds": 1.9622641509433962,
+      "velocity": 3.2500790402153392e-15
+    },
+    {
+      "timeInSeconds": 2.1132075471698113,
+      "velocity": 3.896868859755942e-15
+    },
+    {
+      "timeInSeconds": 2.2641509433962264,
+      "velocity": 4.352133547145895e-15
+    },
+    {
+      "timeInSeconds": 2.4150943396226414,
+      "velocity": 4.79718735903431e-15
+    },
+    {
+      "timeInSeconds": 2.5660377358490565,
+      "velocity": 5.21568437081979e-15
+    },
+    {
+      "timeInSeconds": 2.7169811320754715,
+      "velocity": 5.459463842799061e-15
+    },
+    {
+      "timeInSeconds": 2.8679245283018866,
+      "velocity": 5.407384392179284e-15
+    },
+    {
+      "timeInSeconds": 3.018867924528302,
+      "velocity": 5.0714291875641015e-15
+    },
+    {
+      "timeInSeconds": 3.169811320754717,
+      "velocity": 4.5751507893323555e-15
+    },
+    {
+      "timeInSeconds": 3.3207547169811322,
+      "velocity": 4.048669806153316e-15
+    },
+    {
+      "timeInSeconds": 3.4716981132075473,
+      "velocity": 3.544548885543036e-15
+    },
+    {
+      "timeInSeconds": 3.6226415094339623,
+      "velocity": 3.0399155123183903e-15
+    },
+    {
+      "timeInSeconds": 3.7735849056603774,
+      "velocity": 2.5028395643447973e-15
+    },
+    {
+      "timeInSeconds": 3.9245283018867925,
+      "velocity": 1.948836047250057e-15
+    },
+    {
+      "timeInSeconds": 4.0754716981132075,
+      "velocity": 1.4358759517001873e-15
+    },
+    {
+      "timeInSeconds": 4.226415094339623,
+      "velocity": 1.0114499870337052e-15
+    },
+    {
+      "timeInSeconds": 4.377358490566038,
+      "velocity": 6.686548186695835e-16
+    },
+    {
+      "timeInSeconds": 4.528301886792453,
+      "velocity": 3.544037612586894e-16
+    },
+    {
+      "timeInSeconds": 4.679245283018868,
+      "velocity": 2.1551850512573208e-17
+    },
+    {
+      "timeInSeconds": 4.830188679245283,
+      "velocity": -3.2251628507933726e-16
+    },
+    {
+      "timeInSeconds": 4.981132075471698,
+      "velocity": -6.133580121023115e-16
+    },
+    {
+      "timeInSeconds": 5.132075471698113,
+      "velocity": -7.758698574580198e-16
+    },
+    {
+      "timeInSeconds": 5.283018867924528,
+      "velocity": -7.839990287944378e-16
+    },
+    {
+      "timeInSeconds": 5.433962264150943,
+      "velocity": -6.8968158256932185e-16
+    },
+    {
+      "timeInSeconds": 5.584905660377358,
+      "velocity": -6.000201956579908e-16
+    },
+    {
+      "timeInSeconds": 5.735849056603773,
+      "velocity": -6.164317625479402e-16
+    },
+    {
+      "timeInSeconds": 5.886792452830188,
+      "velocity": -7.73271982254993e-16
+    },
+    {
+      "timeInSeconds": 6.037735849056604,
+      "velocity": -1.0144282697086126e-15
+    },
+    {
+      "timeInSeconds": 6.188679245283019,
+      "velocity": -1.2251522795288662e-15
+    },
+    {
+      "timeInSeconds": 6.339622641509434,
+      "velocity": -1.3031222131502192e-15
+    },
+    {
+      "timeInSeconds": 6.490566037735849,
+      "velocity": -1.2249624000119014e-15
+    },
+    {
+      "timeInSeconds": 6.6415094339622645,
+      "velocity": -1.0618577419863118e-15
+    },
+    {
+      "timeInSeconds": 6.7924528301886795,
+      "velocity": -9.289953052621558e-16
+    },
+    {
+      "timeInSeconds": 6.943396226415095,
+      "velocity": -9.023658268803291e-16
+    },
+    {
+      "timeInSeconds": 7.09433962264151,
+      "velocity": -9.66219236620378e-16
+    },
+    {
+      "timeInSeconds": 7.245283018867925,
+      "velocity": -1.0349763271599704e-15
+    },
+    {
+      "timeInSeconds": 7.39622641509434,
+      "velocity": -1.0325556689345571e-15
+    },
+    {
+      "timeInSeconds": 7.547169811320755,
+      "velocity": -9.589226073707711e-16
+    },
+    {
+      "timeInSeconds": 7.69811320754717,
+      "velocity": -8.800655578264261e-16
+    },
+    {
+      "timeInSeconds": 7.849056603773585,
+      "velocity": -8.470258845993663e-16
+    }
+  ],
+  "earthquakeTime": 1.96226415094339
+}
